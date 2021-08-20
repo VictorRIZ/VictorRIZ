@@ -1,7 +1,7 @@
  👋 Hello guys! / Olá pessoal!!
 
 
-Me chamo Victor, tenho 19 anos.
+Me chamo Victor, tenho 20 anos.
 
 Faço tecnólogo em Análise e Desenvolvimento de Sistemas. Atualmente estou aprendendo Javascript + NodeJS. Futuramente pretendo aprender frameworks 
 quando consolidar meus conhecimentos em Javascript.
