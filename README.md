@@ -3,11 +3,11 @@
 
 Me chamo Victor, tenho 20 anos.
 
-Faço tecnólogo em Análise e Desenvolvimento de Sistemas. Atualmente estou aprendendo Javascript + NodeJS. Futuramente pretendo aprender frameworks 
+Faço tecnólogo em Análise e Desenvolvimento de Sistemas. Atualmente estou aprendendo Javascript. Futuramente pretendo aprender frameworks 
 quando consolidar meus conhecimentos em Javascript.
 
 
-💡Skills: HTML + CSS(Bootstrap), e como dito anteriormente, aprendendo JS com NodeJS.
+💡Skills: HTML + CSS(Bootstrap), e como dito anteriormente, aprendendo JS.
 
 
 Tenho familiaridade com as plataformas VSCode e também o Figma para prototipação de imagens e layout.
