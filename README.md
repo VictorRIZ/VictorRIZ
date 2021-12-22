@@ -10,8 +10,6 @@ quando consolidar meus conhecimentos em Javascript.
 💡Skills: HTML + CSS(Bootstrap), e como dito anteriormente, aprendendo JS.
 
 
-Tenho familiaridade com as plataformas VSCode.
-
 Sempre em busca de evolução!!
 
 
