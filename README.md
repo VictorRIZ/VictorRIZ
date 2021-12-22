@@ -10,17 +10,9 @@ quando consolidar meus conhecimentos em Javascript.
 💡Skills: HTML + CSS(Bootstrap), e como dito anteriormente, aprendendo JS.
 
 
-Tenho familiaridade com as plataformas VSCode e também o Figma para prototipação de imagens e layout.
+Tenho familiaridade com as plataformas VSCode.
 
-Meus interesses em 2021 são: 
-
-º Aprender algum framework em JS(React ou Angular)
-
-º Aplicação Mobile(React Native ou Flutter)
-
-º Sempre aprender algo novo a cada dia!
-
-Obrigado!!
+Sempre em busca de evolução!!
 
 
 
