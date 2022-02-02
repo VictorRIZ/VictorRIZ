@@ -12,6 +12,8 @@ quando consolidar meus conhecimentos em Javascript.
 
 Sempre em busca de evolução!!
 
+Meu portfolio: https://victorriz.github.io/VictooorPortfolio/
+
 
 
 
