@@ -1,18 +1,18 @@
- 👋 Hello guys! / Olá pessoal!!
+ 👋 Hi everyone!
 
 
-Me chamo Victor, tenho 20 anos.
+My name is Victor, I have 20 years old!
 
-Faço tecnólogo em Análise e Desenvolvimento de Sistemas. Atualmente estou aprendendo Javascript. Futuramente pretendo aprender frameworks 
-quando consolidar meus conhecimentos em Javascript.
-
-
-💡Skills: HTML + CSS(Bootstrap), e como dito anteriormente, aprendendo JS.
+I'm currently studying System Analysis and Development. In the next months, i will learn frameworks JS
+when I dominate JS Vanilla.
 
 
-Sempre em busca de evolução!!
+💡Skills: HTML + CSS(Bootstrap), and now, learning JS.
 
-Meu portfolio: https://victorriz.github.io/VictooorPortfolio/
+
+It's never too late to learning anything new!!
+
+My portfolio: https://victorriz.github.io/VictooorPortfolio/
 
 
 
