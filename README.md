@@ -23,8 +23,7 @@ Learning:
 It's never too late to learning anything new!!
 
 My portfolio: 
-
-<a href="https://victorriz.github.io/VictooorPortfolio/" </a>
+https://victorriz.github.io/VictooorPortfolio/"
 
 
 <div>
