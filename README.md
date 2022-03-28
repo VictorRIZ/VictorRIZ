@@ -24,7 +24,7 @@ It's never too late to learning anything new!!
 
 My portfolio: 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" <a href="https://victorriz.github.io/VictooorPortfolio/" </a> width="40" height="40" />  
+<a href="https://victorriz.github.io/VictooorPortfolio/" </a>
 
 
 <div>
