@@ -1,10 +1,11 @@
  👋 Hi everyone!
 
 
-My name is Victor, I have 20 years old!
+My name is Victor, I have 21 years old!
 
-I'm currently studying System Analysis and Development. In the next months, i will learn frameworks JS
+I'm currently studying System Analysis & Development. In the next months, i will learn frameworks JS
 when I dominate JS Vanilla.
+Recently, I started study Ethical Hacker and I just loved!
 
 
 💡Skills: 
