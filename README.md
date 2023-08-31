@@ -3,9 +3,9 @@
 
 My name is Victor, I have 21 years old!
 
-I'm currently studying System Analysis & Development. In the next months, i will learn frameworks JS
-when I dominate JS Vanilla.
+I'm graduated in Analysis & Systems Development. In the next months,
 Recently, I started study Ethical Hacker and I just loved!
+I'm currently studying IT auditor and information security, ISO norms and more.
 
 
 💡Skills: 
